@@ -1,4 +1,4 @@
-package br.com.alex.annotation.aop;
+package br.com.alex.annotation.aop.exception;
 
 public class ErrorBuilder {
 

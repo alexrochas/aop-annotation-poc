@@ -1,4 +1,4 @@
-package br.com.alex.annotation.aop;
+package br.com.alex.annotation.aop.exception;
 
 import java.util.ArrayList;
 import java.util.List;
